@@ -1,0 +1,173 @@
+header{
+    width: 1100px;
+    margin: 0 auto;
+}
+img{
+    width: 120px;
+}
+main{
+    font-family: corbel;
+   width: 1100px;
+    color: #14931F;
+    margin: 0 auto;
+}
+h1{
+    font-size: 64px;
+  text-align: center;        
+}
+p{
+    color: #646F75;
+    text-align: center;
+    font-size: 18px;
+    }
+    button{
+        font-size: 18px;
+        display: block;
+        background: #14931F;
+        color: white;
+        border: none;
+        padding: 8px 23px 8px 23px;
+        border-radius: 30px;
+       margin: 30px   auto;
+     }
+     h2{
+        font-size:35px;
+        text-align: center;
+     }
+     table{
+       margin: auto;
+       text-align: center;
+       border-spacing: 30px;
+       color: #646F75;
+    }
+        td{
+      padding:25px;
+      width: 190px;
+      height: 40px;
+      border-radius: 44px;
+      background-color: #DFDBF5;
+    }
+    .baza{
+        background-color: #DFDBF5; 
+        height: 724px;    
+        padding-top: 0px;
+    }
+    .flex{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        margin:90px auto;
+    }
+    .first,.two,.three{
+        background: white;
+          width: 225px;
+          height: 356px;
+          text-align: center;
+          margin: 29px;
+          border-radius: 25px;
+          padding: 15px;
+    }
+    span{
+        display: inline-block;
+       margin-top:9px;
+       margin-bottom: 51px;
+       font-size: 33px;
+      font-weight: 900;
+    }   
+    ul{
+        background-image: url(/icon1.svg),
+                                                url(/icon1.svg),
+                                                url(/icon1.svg);
+        background-repeat: no-repeat;
+        background-position:10px 2px,10px 41px,10px 98px;
+        text-align: left;
+        margin: 4px 3px 0px 11px;
+        list-style: none;
+        color: #646F75;
+    }  
+    li{
+        line-height: px;
+    }
+    .kupit{
+        display: block;
+        margin: -35px 0px 0px 95px;
+        color: #646F75;
+        background-color: white;
+        border: 1px solid #646F75;
+        padding: 6px 26px 6px 26px;  
+        font-weight: 600;              
+    }  
+    .cennik{ 
+        display: inline-block;
+        font-size: 36px;
+        margin: 42px 121px 0px 1px;
+    }
+    .sptw{
+        color: white;
+        margin: -35px 3px 0px 10px;
+        background-image:   url(/icon2.svg),
+                                                   url(/icon2.svg),
+                                                   url(/icon2.svg),
+                                                   url(/icon2.svg);
+        background-repeat: no-repeat;
+        background-position:10px 2px,10px 41px,10px 98px,10px 136px
+       }
+       .two{
+        background-color: #14931F;
+       }
+       .cennik2{
+        display: inline-block;
+        font-size: 36px;
+        margin: 23px 121px 0px -13px;
+        color: white;
+    }
+       .kupit2{
+        display: block;
+        border: none ;
+        margin: -35px 0px 0px 99px;
+        color: #646F75;
+        background-color: white;
+        padding: 6px 26px 6px 26px; 
+        font-weight: 600;   
+       }
+       .uk{
+        color: white;
+       }
+       .alia{
+        margin: -32px 3px 0px 11px;
+        background-image:   url(/icon1.svg),
+                                                   url(/icon1.svg),
+                                                   url(/icon1.svg),
+                                                   url(/icon1.svg);
+        background-repeat: no-repeat;
+        background-position:10px 2px,10px 41px,10px 79px,10px 136px
+       }
+       .cennik3{
+        display: inline-block;
+        font-size: 36px;
+        margin: 23px 121px 0px -13px;
+       }
+       .kupit3{
+        display: block;
+        margin: -35px 0px 0px 99px;
+        color: white;
+        background-color: #14931F;
+        padding: 6px 26px 6px 26px; 
+        font-weight: 600;   
+       }
+       footer{
+        width: 1100px;
+        height: 39px;
+        text-align: center;
+        background-color: #14931F;
+        font-family: corbel;
+        font-size: 13px;
+        color: white;
+        padding-top: 29px;
+        margin: 0 auto;}
