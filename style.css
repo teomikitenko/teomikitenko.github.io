@@ -174,3 +174,8 @@ p{
         color: white;
         padding-top: 29px;
         margin: 0 auto;}
+        a{
+            text-decoration: none;
+            font-weight: 600;
+            color: #646F75;
+        }
