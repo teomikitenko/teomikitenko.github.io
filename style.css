@@ -182,3 +182,16 @@ p{
         .wite{
             color: white;
         }
+        .kupit, .kupit2, .kupit3{
+            box-shadow: 0 0 7px black ;
+        }
+        .kupit3:hover{
+            box-shadow: none;
+            color: yellow;
+            background: lightseagreen;
+        }
+        .kupit:hover{
+            box-shadow: none;
+            background: #14931F;
+            
+        }
